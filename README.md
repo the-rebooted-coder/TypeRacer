@@ -1,5 +1,5 @@
 # TypeRacer
-This repository consistes to a JS (JavaScrpit) file that can be used to check the TypeRacer's typing algorithms.
+This repository consistes of a JS (JavaScrpit) file that can be used to check the TypeRacer's typing algorithms.
 Do Note that this is only for testing purposes and the JS Script hereafter used is of a noble man who I don't know the name of!
 **I've done subtle changes to the Script so that the _TypreRacer website dosen't gives you a "CAPTCHA"_ to Solve**
 However if you want to solve the CAPTCHA (as you have God Level Typing Skills) then you should lower down the number in the last few lines of the JS.
