@@ -6,7 +6,7 @@ However if you want to solve the CAPTCHA (as you have God Level Typing Skills) t
 **By default the setTimeout**
 It is set to 220, if user decreases it then the script will type fatser and vice-versa.
 
-__Do rememebr to paste this file in your "Console" that is found inside the Inspect Tab__
+__Do rememebr to paste this file in your "Console" that is found inside the Inspect Tab of your web browser__
 and hit "ENTER" only when the countdown ends (otherwise it will not work)
 **Do Remember to Place the last punctuation in the end of the line to end the TEST**
 
