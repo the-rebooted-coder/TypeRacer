@@ -14,4 +14,4 @@ and hit "ENTER" only when the countdown ends (otherwise it will not work)
 
 
 **CREATED BY**
-# Spandan Saxena
+# Spandan Saxena (One Silicon Diode)
